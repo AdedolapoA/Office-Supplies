@@ -1,4 +1,4 @@
-The Office Supply Dashboard for Dataleum.
+The Office Supply Analysis for Dataleum.
 
 The project goal was to determine which products were key drivers of performance and also identify which products performed made the most profit and those that suffered great losses to assist in decision making.
 
