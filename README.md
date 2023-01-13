@@ -20,3 +20,5 @@ Key findings are;
 One of the recommendations given was that 
 
 - An Increase in the manufacturing cost on A4 paper and pencil next year could have a better impact on both revenue, Profit After Tax. 
+
+![image](https://user-images.githubusercontent.com/122613893/212339142-c8a034ee-488b-46bd-8522-7b95025e6273.png)
